@@ -1,0 +1,21 @@
+{
+  "name": "zurich",
+  "version": "1.0.0",
+  "description": "A documentation of the Zürich on-site assignment",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ppseprus/zurich.git"
+  },
+  "author": "ppseprus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ppseprus/zurich/issues"
+  },
+  "homepage": "https://github.com/ppseprus/zurich#readme"
+}
