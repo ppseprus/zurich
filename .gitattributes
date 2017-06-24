@@ -1,0 +1,6 @@
+* text eol=crlf
+*.gif binary
+*.jpg binary
+*.jp2 binary
+*.png binary
+*.mp4 binary
