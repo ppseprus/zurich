@@ -75,3 +75,32 @@ video {
 	transform: translate(-50%, -50%);
 	z-index: -100;
 }
+
+ul {
+	margin: .5rem;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+}
+
+li::after {
+	content: ',';
+}
+
+@media (min-width: 1000px) {
+	ul {
+		padding-left: 1rem;
+		list-style-type: circle;
+	}
+
+	li {
+		display: list-item;
+	}
+
+	li::after {
+		content: '';
+	}
+}
