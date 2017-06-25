@@ -1,0 +1,25 @@
+#cover {
+	background-image: url('content/prime_tower_panorama.jpg');
+}
+
+#the-route img {
+	width: 70vw;
+	height: calc(70vw / 1.77);
+}
+
+#arriving-to-zurich {
+	background-image: url('content/arriving_to_zurich.gif');
+}
+
+#sky {
+	background-image: url('content/purpule_sky.jpg');
+}
+
+#view-on-the-way {
+	background-image: url('content/view_on_the_way.jpg');
+}
+
+
+#view-at-my-desk {
+	background-image: url('content/view_at_my_desk.jpg');
+}
