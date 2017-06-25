@@ -63,3 +63,20 @@
 #night-out{
 	background-image: url('content/night_out.jpg');
 }
+
+#having-fun {
+	background-image: url('content/having_fun.jpg');
+}
+
+#party img {
+	width: 70vw;
+	height: calc(70vw / 2.2);
+}
+
+#morning-coffee {
+	background-image: url('content/morning_coffee.jpg');
+}
+
+#leaving-work {
+	background-image: url('content/leaving_work.jpg');
+}
