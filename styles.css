@@ -23,6 +23,7 @@ h2 {
 
 #the-story section {
 	position: relative;
+    width: 100vw;
 	height: 100vh;
 }
 
@@ -33,8 +34,11 @@ h2 {
 .frame {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
+    background-position: center center;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .chapter {
