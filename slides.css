@@ -1,81 +1,45 @@
 #cover {
-	background-image: url('content/prime_tower_panorama.jpg');
-}
-
+	background-image: url('content/prime_tower_panorama.jpg'); }
 #the-route img {
 	width: 70vw;
 	height: calc(70vw / 1.77);
 }
-
 #arriving-to-zurich {
-	background-image: url('content/arriving_to_zurich.gif');
-}
-
+	background-image: url('content/arriving_to_zurich.gif'); }
 #sky {
-	background-image: url('content/purpule_sky.jpg');
-}
-
+	background-image: url('content/purpule_sky.jpg'); }
 #view-on-the-way {
-	background-image: url('content/view_on_the_way.jpg');
-}
-
+	background-image: url('content/view_on_the_way.jpg'); }
 #view-at-my-desk {
-	background-image: url('content/view_at_my_desk.jpg');
-}
-
+	background-image: url('content/view_at_my_desk.jpg'); }
 #zurich {
-	background-image: url('content/zurich.jpg');
-}
-
+	background-image: url('content/zurich.jpg'); }
 #view-at-the-river {
-	background-image: url('content/view_at_the_river.jpg');
-}
-
+	background-image: url('content/view_at_the_river.jpg'); }
 #view-from-lindehof {
-	background-image: url('content/view_from_lindehof.jpg');
-}
-
+	background-image: url('content/view_from_lindehof.jpg'); }
 #pavilon {
-	background-image: url('content/pavilon.jpg');
-}
-
+	background-image: url('content/pavilon.jpg'); }
 #weinplatz {
-	background-image: url('content/weinplatz.jpg');
-}
-
+	background-image: url('content/weinplatz.jpg'); }
 #river-side {
-	background-image: url('content/river_side.jpg');
-}
-
+	background-image: url('content/river_side.jpg'); }
 #in-the-water {
-	background-image: url('content/in_the_water.jpg');
-}
-
+	background-image: url('content/in_the_water.jpg'); }
 #garden {
-	background-image: url('content/garden.jpg');
-}
-
+	background-image: url('content/garden.jpg'); }
 #view-at-the-river-at-sunset {
-	background-image: url('content/view_at_the_river_at_sunset.jpg');
-}
-
+	background-image: url('content/view_at_the_river_at_sunset.jpg'); }
 #night-out{
-	background-image: url('content/night_out.jpg');
-}
-
+	background-image: url('content/night_out.jpg'); }
 #having-fun {
-	background-image: url('content/having_fun.jpg');
-}
-
+	background-image: url('content/having_fun.jpg'); }
 #party img {
 	width: 70vw;
 	height: calc(70vw / 2.2);
 }
-
 #morning-coffee {
-	background-image: url('content/morning_coffee.jpg');
-}
-
+	background-image: url('content/morning_coffee.jpg'); }
 #leaving-work {
 	background-image: url('content/leaving_work.jpg');
 }
