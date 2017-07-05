@@ -21,12 +21,13 @@ h2 {
 	color: #fff;
 }
 
-#the-story section {
+section {
 	position: relative;
 	height: 100vh;
 }
 
-#the-story section > div {
+section > div {
+    height: calc(100% - 16vh);
 	padding: 8vh 15vw;
 }
 
@@ -44,17 +45,22 @@ h2 {
 	background-color: #fff;
 }
 
-.chapter img:not(.panorama) {
-	width: 30vw;
-	height: auto;
-	max-height: 84vh;
+.chapter .centered {
+    display: flex;
 }
 
-@media (min-width: 1000px) {
-	.chapter img:not(.panorama) {
-		width: 56vh;
-		height: 84vh;
-	}
+.chapter .centered img {
+    -webkit-align-self: center;
+    align-self: center;
+    margin: auto;
+    max-width: 70vw;
+    max-height: 84vh;
+}
+
+.chapter div:not(.centered) > img:not(.panorama) {
+	height: auto;
+	max-width: 40vw;
+    max-height: 84vh;
 }
 
 .to-the-left {
