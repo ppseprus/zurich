@@ -41,5 +41,26 @@
 #morning-coffee {
 	background-image: url('content/morning_coffee.jpg'); }
 #leaving-work {
-	background-image: url('content/leaving_work.jpg');
+	background-image: url('content/leaving_work.jpg'); }
+#babett {
+	background-image: url('content/babett.jpg'); }
+#houses {
+    background-image: url('content/houses.jpg'); }
+#grossmunster-panorama img {
+	width: 70vw;
+	height: calc(70vw / 2.1);
 }
+#view-from-the-tower-1 {
+	background-image: url('content/view_from_the_tower_1.jpg'); }
+#view-from-the-tower-2 {
+	background-image: url('content/view_from_the_tower_2.jpg'); }
+#zurichsee {
+	background-image: url('content/zurichsee.jpg'); }
+#zoologisches-museum {
+	background-image: url('content/zoologisches_museum.jpg'); }
+#animals {
+	background-image: url('content/animals.jpg'); }
+#babett-taking-pictures {
+	background-image: url('content/babett_taking_pictures.jpg'); }
+#view-from-jule-verne {
+    background-image: url('content/view_from_jule_verne.jpg'); }
