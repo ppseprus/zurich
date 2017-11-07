@@ -14,11 +14,28 @@ h2 {
 	font-size: calc(12px + 1.3vmin);
 }
 
+#flag {
+    position: absolute;
+    bottom: 13vh;
+    left: 11vw;
+    width: 18vmin;
+    height: 18vmin;
+    font-size: 19vmin;
+    font-weight: bold;
+    text-align: center;
+    line-height: calc(1em - 4vmin);
+    color: #fff;
+    background-color: #ff0d00;
+}
+
 #title {
-	position: absolute;
-	top: 80vh;
-	font-size: 8vmin;
-	color: #fff;
+    position: absolute;
+    bottom: 13vh;
+    left: calc(11vw + 19vmin);
+    margin: 0;
+    font-size: 7.5vmin;
+    line-height: calc(1em - 1.4vmin);
+    color: #fff;
 }
 
 section {
