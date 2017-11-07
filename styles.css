@@ -6,6 +6,11 @@
 	font-size: calc(12px + .3vmin);
 }
 
+*::selection {
+    color: #fff;
+    background: #ff0d00;
+}
+
 h1, h2 {
 	margin-top: 0;
 }
