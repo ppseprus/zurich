@@ -1,5 +1,7 @@
-chrome > 59
-safari > 9
-ff > 49
+chrome >= 49
+safari >= 9
+ff >= 49
 edge >= 16
-ie > 9
+ie >= 10
+and_chr >= 66
+ios_saf >= 10
