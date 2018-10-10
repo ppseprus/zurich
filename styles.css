@@ -32,12 +32,8 @@ h2 {
     left: 11vw;
     width: 18vmin;
     height: 18vmin;
-    font-size: 19vmin;
-    font-weight: bold;
-    text-align: center;
-    line-height: calc(1em - 4vmin);
-    color: #fff;
-    background-color: #ff0d00;
+}
+
 }
 
 #title {
