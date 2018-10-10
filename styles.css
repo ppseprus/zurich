@@ -34,6 +34,12 @@ h2 {
     height: 18vmin;
 }
 
+#end #flag {
+    position: absolute;
+    top: 30vh;
+    left: calc(50vw - 8vmin);
+    width: 16vmin;
+    height: 16vmin;
 }
 
 #title {
