@@ -66,9 +66,6 @@ section > div {
 	background-attachment: fixed;
 	background-repeat: no-repeat;
     background-position: center center;
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
 }
 
@@ -81,7 +78,8 @@ section > div {
 }
 
 .chapter .centered img {
-    -webkit-align-self: center;
+    -ms-flex-item-align: center;
+    -ms-grid-row-align: center;
     align-self: center;
     margin: auto;
     max-width: 70vw;
