@@ -88,18 +88,20 @@ section > div {
 
 .chapter div:not(.centered) > img:not(.panorama) {
 	height: auto;
-	max-width: 40vw;
+	max-width: 38vw;
     max-height: 84vh;
 }
 
 .to-the-left {
 	float: left;
 	padding-right: 3vw;
+    padding-bottom: 3vh;
 }
 
 .to-the-right {
 	float: right;
 	padding-left: 3vw;
+    padding-bottom: 3vh;
 }
 
 video {
